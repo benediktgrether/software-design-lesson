@@ -2,7 +2,8 @@
 
 > **Mit Katharina Dachs erarbeitet**
 > 
-> Am Anfang gab es Probleme mit dem pull meiner Dateien.
+> **Problem**
+> Pullen meiner Datei nicht möglich. Der Ordner Aufgabe 1 war bei Katharina Dachs immer leer.
 >
 > **Lösung**
 >
