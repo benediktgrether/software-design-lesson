@@ -12,3 +12,11 @@
 ## Erste Erweiterungen
 
 * Add CSS Style to Document
+
+
+## Commits von Kathi 
+
+``` 3e078df9f3196247b3750b4f08bce52c9f118f1f
+<img src="GreyKitten.jpg">
+<p> Hier eine Darstellung einer Baby Katze</p>
+ ```
