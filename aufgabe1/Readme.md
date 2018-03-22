@@ -20,3 +20,11 @@
 <img src="GreyKitten.jpg">
 <p> Hier eine Darstellung einer Baby Katze</p>
  ```
+
+``` Commit revert
+ <<<<<<< HEAD
+        <img src="./puppy.jpeg">
+        <p>So ein Hund will ich mal haben</p>
+=======
+>>>>>>> parent of 3e078df... Picture Added
+```
