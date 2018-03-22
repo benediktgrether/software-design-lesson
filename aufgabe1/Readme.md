@@ -16,12 +16,14 @@
 
 ## Commits von Kathi 
 
-``` 3e078df9f3196247b3750b4f08bce52c9f118f1f
+``` 
+ssh: 3e078df9f3196247b3750b4f08bce52c9f118f1f
 <img src="GreyKitten.jpg">
 <p> Hier eine Darstellung einer Baby Katze</p>
  ```
 
-``` Commit revert
+``` 
+Commit revert
  <<<<<<< HEAD
         <img src="./puppy.jpeg">
         <p>So ein Hund will ich mal haben</p>
