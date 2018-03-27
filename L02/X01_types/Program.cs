@@ -17,6 +17,24 @@ namespace X01_types
             Console.WriteLine(j + " need "  + countByte + " Bytes ");
         
         // System.Text.ASCIIEncoding.ASCII.GetByteCount(j);   
+        
+        // To Do - Initialisierung & Typ Inferenz
+
+            int i1 = 42;
+            double pi1 = 3.1415;
+            string salute1 = "Hello, World";
+            Console.WriteLine(i1);
+            Console.WriteLine(pi1);
+            Console.WriteLine(salute1);
+            Console.WriteLine("--------");
+
+            // To Do Change declaration to var
+            var i = 42;
+            var pi = 3.1415;
+            var salute = "Hello, World";
+            Console.WriteLine(i);
+            Console.WriteLine(pi);
+            Console.WriteLine(salute);
         }
     }
 }
