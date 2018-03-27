@@ -32,9 +32,9 @@ namespace X01_types
             var i = 42;
             var pi = 3.1415;
             var salute = "Hello, World";
-            Console.WriteLine(i);
-            Console.WriteLine(pi);
-            Console.WriteLine(salute);
+            Console.WriteLine(i.GetType() + " -- " + i);
+            Console.WriteLine(pi.GetType() + " -- " + pi);
+            Console.WriteLine(salute.GetType() + " -- " + salute);
         }
     }
 }
