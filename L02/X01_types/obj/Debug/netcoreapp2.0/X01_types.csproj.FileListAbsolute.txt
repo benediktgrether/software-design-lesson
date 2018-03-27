@@ -1,0 +1,10 @@
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/bin/Debug/netcoreapp2.0/X01_types.deps.json
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/bin/Debug/netcoreapp2.0/X01_types.runtimeconfig.json
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/bin/Debug/netcoreapp2.0/X01_types.runtimeconfig.dev.json
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/bin/Debug/netcoreapp2.0/X01_types.dll
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/bin/Debug/netcoreapp2.0/X01_types.pdb
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/obj/Debug/netcoreapp2.0/X01_types.csproj.CoreCompileInputs.cache
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/obj/Debug/netcoreapp2.0/X01_types.AssemblyInfoInputs.cache
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/obj/Debug/netcoreapp2.0/X01_types.AssemblyInfo.cs
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/obj/Debug/netcoreapp2.0/X01_types.dll
+/Users/benediktgrether/Documents/Hochschule/SoSe-18/Softwaredesign/Praktikum/Aufgaben/L02/X01_types/obj/Debug/netcoreapp2.0/X01_types.pdb
