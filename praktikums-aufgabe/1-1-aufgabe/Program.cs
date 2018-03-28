@@ -16,9 +16,9 @@ namespace _1_1_aufgabe
              if (w == eingabe){
                 Console.WriteLine("Hello World");
                 Console.WriteLine(d.GetType() + " " + d);
-                // double a = 6 * (d * d);
-                // double v = d * d * d;
-                // Console.WriteLine(a + " " + v);
+                double a = 6 * (d * d);
+                double v = d * d * d;
+                Console.WriteLine(a + " " + v);
             }else if( k == eingabe ){
 
             }else if( o == eingabe ){
@@ -28,10 +28,10 @@ namespace _1_1_aufgabe
             }
             
         }
-
-        // public double Oberflaeche(double kantenlangen, double durchmesser){
-        //     double a = 6 * kantenlangen * kantenlangen;
-        //     return a;
-        // }
+    
+        public static double getCubeSurface(double d){
+            
+        }
     }
+
 }
